@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pandupurwadi18
 - 👀 I’m interested in programming and design
-- 🌱 I’m currently learning Python language and AI
-- 💞️ I’m looking to collaborate on impactful and helpful project
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for collaboration in impactful and helpful project
 - 📫 How to reach me just contact me in my Linkedin @pandupurwadi18
 
 <!---
